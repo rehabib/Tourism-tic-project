@@ -57,7 +57,7 @@ export default function Header({ openModal }) {
                   to="/home/general information"
                   className="block px-4 py-2 hover:bg-purple-500"
                 >
-                  General Information
+                 OverView
                 </Link>
                 <Link
                   to="/home/region"
